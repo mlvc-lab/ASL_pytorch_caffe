@@ -1,0 +1,8 @@
+caffe/__pycache__
+caffe/data_img
+caffe/cifar-10-batches-py
+
+pytorch/__pycache__
+pytorch/*/__pycache__*
+pytorch/data
+pytorch/logs
